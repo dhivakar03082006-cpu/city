@@ -1,0 +1,6 @@
+{
+  "name": "CityPulse - Urban Traffic & Accident Intelligence",
+  "description": "An end-to-end urban traffic and accident intelligence platform featuring geospatial risk mapping, 0-100 road risk scoring, time & vehicle analytics, statistical EDA, and safety recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
